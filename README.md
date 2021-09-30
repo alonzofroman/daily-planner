@@ -8,11 +8,11 @@ The purpose of this project was to create a daily planner that had boxes for eve
 
 ## Screenshot
 
-<!-- <img src="./assets/images/site-screenshot.jpg"> -->
+<img src="./assets/images/planner-site.jpg">
 
 ## Code Snippet
 
-<!-- <img src="./assets/images/code-snippet.jpg"> -->
+<img src="./assets/images/planner-code.jpg">
 
 ## Steps
 - Created the repository and readme file
@@ -28,7 +28,7 @@ The purpose of this project was to create a daily planner that had boxes for eve
 - Added a function to store stored text and keep it as the page is refreshed
 
 ## Deployed Link
-- [](#)
+- [https://alonzofroman.github.io/daily-planner/](#)
 
 ## Technologies Used
 - [HTML] (https://developer.mozilla.org/en-US/docs/Web/HTML)

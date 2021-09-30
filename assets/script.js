@@ -125,7 +125,7 @@ $(document).ready(function() {
     }
 }
     checkTime();
-    setInterval(checkTime, 60000); 
+    setInterval(checkTime, 60000); //Checks the time every minute
 })
 
 
