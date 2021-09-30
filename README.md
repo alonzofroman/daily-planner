@@ -28,6 +28,8 @@ Alonzo Roman
 - [HTML] (https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JQuery] (https://jquery.com/)
+- [Bootstrap] (https://getbootstrap.com/)
 
 
 ## Contact Links
@@ -39,3 +41,4 @@ Alonzo Roman
 
 - W3Schools (https://www.w3schools.com/)
 - MDN Web Docs (https://developer.mozilla.org/en-US/)
+- Bootstrap Library (https://getbootstrap.com/docs/5.1/forms/input-group/)
