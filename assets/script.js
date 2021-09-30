@@ -11,4 +11,26 @@ $(document).ready(function () {
 
 })
 
+//Check whether time is in the past/present/future and set background color
+$(document).ready(function() {
+
+    let checkTime = function() {
+        let boxTime = moment();
+
+    }
+})
+
+//Save text to local storage when save button is clicked
+$("#save9").on("click", function () {
+    var item9 = $("#box9").val();
+    localStorage.setItem('text9', item9);
+    console.log(item9)
+}) 
+
+$(document).ready(function () {
+    // var text9 = localStorage.getItem('text9');
+    $("box9").val(localStorage.getItem('text9'));
+    // console.log(text9);
+})
+
 
