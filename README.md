@@ -36,6 +36,7 @@ The purpose of this project was to create a daily planner that had boxes for eve
 - [Javascript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JQuery] (https://jquery.com/)
 - [Bootstrap] (https://getbootstrap.com/)
+- [Moment.js] (https://momentjs.com/)
 
 
 ## Contact Links
@@ -48,4 +49,4 @@ The purpose of this project was to create a daily planner that had boxes for eve
 - W3Schools (https://www.w3schools.com/)
 - MDN Web Docs (https://developer.mozilla.org/en-US/)
 - Bootstrap Library (https://getbootstrap.com/docs/5.1/forms/input-group/)
-- MomentJS (https://momentjscom.readthedocs.io/en/latest/moment/05-query/06-is-between/)
+- MomentJS (https://momentjscom.readthedocs.io/en/latest/)
